@@ -20,18 +20,5 @@
     "jquery": "^3.6.0",
     "morgan": "~1.9.1",
     "popper.js": "^1.16.1"
-  },
-  "main": "/routes/index.js",
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/lkb0398/comp229-f2021-webassignment.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/lkb0398/comp229-f2021-webassignment/issues"
-  },
-  "homepage": "https://github.com/lkb0398/comp229-f2021-webassignment#readme",
-  "description": ""
+  }
 }
