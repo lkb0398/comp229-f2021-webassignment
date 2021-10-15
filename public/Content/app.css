@@ -18,7 +18,7 @@ Date: Sep 30, 2021.
 */
 @media (min-width: 980px) {
     .container {
-        background-image: url("/assets/images/intro.jpg");
+        background-image: url("/Assets/images/intro.jpg");
         font-size: 16px;
         color: white;
         max-width: 1519px;
